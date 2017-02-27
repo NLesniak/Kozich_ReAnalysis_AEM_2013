@@ -13,10 +13,10 @@ YOUR PAPER'S ABSTRACT GOES HERE
 	|- LICENSE         # the license for this project
 	|
 	|- submission/
-	| |- Kozich_ReAnalysis_AEM_2016.Rmd    # executable Rmarkdown for this study, if applicable
-	| |- Kozich_ReAnalysis_AEM_2016.md     # Markdown (GitHub) version of the *.Rmd file
-	| |- Kozich_ReAnalysis_AEM_2016.tex    # TeX version of *.Rmd file
-	| |- Kozich_ReAnalysis_AEM_2016.pdf    # PDF version of *.Rmd file
+	| |- Kozich_ReAnalysis_AEM_2013.Rmd    # executable Rmarkdown for this study, if applicable
+	| |- Kozich_ReAnalysis_AEM_2013.md     # Markdown (GitHub) version of the *.Rmd file
+	| |- Kozich_ReAnalysis_AEM_2013.tex    # TeX version of *.Rmd file
+	| |- Kozich_ReAnalysis_AEM_2013.pdf    # PDF version of *.Rmd file
 	| |- header.tex   # LaTeX header file to format pdf version of manuscript
 	| |- references.bib # BibTeX formatted references
 	| |- XXXX.csl     # csl file to format references for journal XXX
