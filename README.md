@@ -43,6 +43,16 @@ YOUR PAPER'S ABSTRACT GOES HERE
 
 
 ### How to regenerate this repository
+Downloaded sequence files
+  curl -O https://www.mothur.org/MiSeqDevelopmentData/StabilityWMetaG.tar
+  Unzipped file and moved files into Kozich_ReAnalysis_AEM_2013/data/raw/
+Downloaded references
+  curl -O http://mothur.org/w/images/1/15/Silva.seed_v123.tgz
+  curl -O https://www.mothur.org/w/images/5/59/Trainset9_032012.pds.zip
+  Unzipped file and moved into Kozich_ReAnalysis_AEM_2013/data/references/
+Downloaded mothur
+  curl -O https://github.com/mothur/mothur/releases/download/v.1.39.3/Mothur.mac_64.OSX-10.12.zip
+  Unzipped file and moved into Kozich_ReAnalysis_AEM_2013/code
 
 #### Dependencies and locations
 * Gnu Make should be located in the user's PATH
