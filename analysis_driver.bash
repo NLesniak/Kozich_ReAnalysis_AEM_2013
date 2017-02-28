@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Download the raw data and put them into the data/raw directory
 
 wget --no-check-certificate https://www.mothur.org/MiSeqDevelopmentData/StabilityWMetaG.tar
