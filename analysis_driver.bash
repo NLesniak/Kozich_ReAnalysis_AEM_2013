@@ -45,3 +45,6 @@ code/mothur/mothur code/get_error.batch
 
 # generate shared files
 code/mothur/mothur code/get_shared_otus.batch
+
+# generate NMDS data
+code/mothur/mothur code/get_nmds_data.batch
