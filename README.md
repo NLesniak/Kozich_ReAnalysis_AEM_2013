@@ -79,8 +79,9 @@ rm Trainset14_032015.pds.tgz
 * Gnu Make should be located in the user's PATH
 * mothur (v1.XX.0) should be located in the user's PATH
 * R (v. 3.X.X) should be located in the user's PATH
-* etc.
-
+* knitr
+* Rmarkdown
+* pandoc
 
 #### Running analysis
 
